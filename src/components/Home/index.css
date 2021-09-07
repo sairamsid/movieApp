@@ -1,0 +1,162 @@
+.homepage-movies-container {
+  margin: 0;
+  background-color: black;
+  width: 1440px;
+}
+.home-top-container {
+  height: 605px;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background-image: url('https://res.cloudinary.com/dayrcnlzh/image/upload/v1630661828/Image_bacq8r.jpg');
+  background-size: cover;
+}
+.film-name {
+  height: 42px;
+  width: 382px;
+  margin-left: 164px;
+  margin-top: 75px;
+  border-radius: 0;
+  font-family: 'HK Grotesk';
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 62px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}
+.description {
+  height: 68px;
+  width: 443px;
+  margin-left: 164px;
+  margin-top: 45px;
+  border-radius: 0;
+  font-family: 'HK Grotesk';
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 26px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #ffffff;
+}
+.button {
+  height: 48px;
+  width: 77px;
+  margin-left: 164px;
+  margin-top: 25px;
+  border-radius: 4px;
+  padding: 12px, 24px, 12px, 24px;
+  background: #ffffff;
+}
+.p {
+  opacity: 0%;
+  height: 0px;
+}
+.bottom {
+  height: 75px;
+  width: 1440px;
+  left: 0px;
+  margin-top: 42px;
+  border-radius: 0px;
+  background: linear-gradient(
+    180deg,
+    rgba(2, 2, 2, 0) 0%,
+    rgba(24, 24, 24, 0.546875) 38.26%,
+    #181818 92.82%,
+    #181818 98.68%,
+    #181818 108.61%
+  );
+  margin-bottom: 0px;
+}
+
+.trending {
+  height: 42px;
+  width: 197px;
+  left: 165px;
+  margin-top: 32px;
+  margin-left: 165px;
+  border-radius: 0;
+  font-family: 'HK Grotesk';
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 42px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}
+.trend-movies {
+  color: #ffffff;
+}
+.Top-Rated {
+  height: 42px;
+  width: 144px;
+  margin-left: 165px;
+  margin-top: 32px;
+  border-radius: 0px;
+  font-family: 'HK Grotesk';
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 42px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}
+.top-movies {
+  color: #ffffff;
+}
+.Originals {
+  height: 42px;
+  width: 129px;
+  margin-left: 165px;
+  margin-top: 32px;
+  border-radius: 0px;
+  font-family: 'HK Grotesk';
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 42px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}
+.original-movies {
+  color: #ffffff;
+}
+.icon-container {
+  margin-left: 647px;
+}
+.icons {
+  height: 21px;
+  width: 18px;
+  margin-right: 24px;
+  margin-top: 120px;
+  border-radius: 0px;
+  color: #ffffff;
+  font-family: 'Font Awesome 5 Brands';
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 21px;
+  letter-spacing: 0px;
+}
+.Contact-Us {
+  height: 28px;
+  width: 80px;
+  margin-left: 680px;
+  margin-top: 16px;
+  padding-bottom: 96px;
+  border-radius: 0px;
+  font-family: 'HK Grotesk';
+  font-size: 08px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 28px;
+  letter-spacing: 0px;
+  text-align: left;
+  color: #ffffff;
+}

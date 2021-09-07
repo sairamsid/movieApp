@@ -1,0 +1,193 @@
+.login-form-container {
+  height: 1024px;
+  width: 1440px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0px;
+  background: linear-gradient(
+      116.64deg,
+      rgba(0, 0, 0, 0.8) 0.46%,
+      rgba(0, 0, 0, 0) 100%
+    ),
+    url('https://res.cloudinary.com/dayrcnlzh/image/upload/v1630389811/netfilx_1_er4qcv.png');
+}
+
+.heading-container {
+  font-weight: 500;
+  padding-left: 165px;
+  padding-top: 48px;
+  border-radius: 0px;
+  color: #e50014;
+  display: flex;
+  flex-direction: row;
+}
+.login-heading {
+  font-size: xx-large;
+}
+.m {
+  height: 55px;
+  width: 25px;
+  left: 165px;
+  top: 48.5570068359375px;
+  border-radius: 0px;
+}
+.O {
+  height: 49.017860412597656px;
+  width: 24.978490829467773px;
+  left: 207.804443359375px;
+  top: 48.02099609375px;
+  border-radius: 0px;
+}
+.V {
+  height: 47.30181884765625px;
+  width: 28.40557861328125px;
+  left: 238.86279296875px;
+  top: 48.541259765625px;
+  border-radius: 0px;
+}
+.I {
+  height: 47.64826583862305px;
+  width: 8.2302885055542px;
+  left: 274.0439453125px;
+  top: 48.546630859375px;
+  border-radius: 0px;
+}
+.E {
+  height: 49.04459762573242px;
+  width: 22.461753845214844px;
+  left: 291.221435546875px;
+  top: 48.5518798828125px;
+  border-radius: 0px;
+}
+.S {
+  height: 51.596458435058594px;
+  width: 24.499319076538086px;
+  left: 320.500732421875px;
+  top: 48px;
+  border-radius: 0px;
+}
+.sign-container {
+  height: 440px;
+  width: 456px;
+  margin-left: 492px;
+  margin-top: 192.4px;
+  border-radius: 8px;
+}
+.form-container {
+  height: 440px;
+  width: 456px;
+  border-radius: 8px;
+  background: rgba(12, 11, 16, 1);
+  opacity: 80%;
+  display: flex;
+  flex-direction: column;
+}
+.sign-heading-container {
+  height: 40px;
+  width: 96px;
+  margin-top: 64px;
+  margin-left: 179px;
+  opacity: 80%;
+  border-radius: 0;
+  font-family: 'HKGrotesk';
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+.sign-heading {
+  font-style: bolder;
+}
+.pad {
+  padding-left: 48px;
+  padding-right: 48px;
+  padding-top: 32px;
+}
+.error-message {
+  height: 18px;
+  width: 239px;
+  left: 540px;
+  top: 596px;
+  border-radius: 0;
+  font-family: 'HKGrotesk';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 18px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #fb923c;
+}
+.button-container {
+  padding-top: 48px;
+  padding-left: 186px;
+}
+.login-button {
+  height: 40px;
+  border-width: 0;
+  width: 84px;
+  border-radius: 4px;
+  padding: 8px, 20px, 8px, 20px;
+  background: #e50914;
+  left: 20px;
+  top: 8px;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: center;
+  color: #ffffff;
+}
+.input-container {
+  display: flex;
+  flex-direction: column;
+}
+.input-label {
+  height: 16px;
+  width: 65px;
+  left: 0px;
+  top: 0px;
+  border-radius: 0;
+  font-family: 'Roboto';
+  font-size: 12px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 16px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color: #ffffff;
+}
+.username-input-field {
+  padding-top: 8px;
+  padding-left: 16px;
+  height: 40px;
+  width: 360px;
+  left: 0px;
+  top: 24px;
+  border-radius: 2px;
+  background: #333333;
+  font-family: 'Roboto';
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 24px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #7e858e99;
+}
+.password-input-field {
+  padding-top: 8px;
+  height: 40px;
+  width: 360px;
+  left: 0px;
+  top: 24px;
+  border-radius: 2px;
+  background: #333333;
+}
+.only-input {
+  padding-bottom: 8px;
+}
